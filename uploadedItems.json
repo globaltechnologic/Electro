@@ -19,4 +19,24 @@
     "DirectoryPath": "electro/nopCommerce4.20/plugins/Misc.ManufacturersOnHome/",
     "SystemName": "Misc.ManufacturersOnHome"
   }
+  //"electro" theme for version 4.30
+  {
+    "Type": "Theme",
+    "SupportedVersion": "4.30",
+    "DirectoryPath": "electro/nopCommerce4.30/theme/electro/"
+  },
+  //"New product" plugin for version 4.30  
+  {   
+    "Type": "Plugin",    
+    "SupportedVersion": "4.30",   
+    "DirectoryPath": "electro/nopCommerce4.30/plugins/Misc.NewProductsOnHome/",
+    "SystemName": "Misc.NewProductsOnHome"
+  },
+  //"Manufacturers" plugin for version 4.30
+  {   
+    "Type": "Plugin",    
+    "SupportedVersion": "4.30",   
+    "DirectoryPath": "electro/nopCommerce4.30/plugins/Misc.ManufacturersOnHome/",
+    "SystemName": "Misc.ManufacturersOnHome"
+  }
 ]
